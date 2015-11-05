@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1445780886 source:/media/sf_DATA_1/CODE_BLOCKS/_prog_reseau/server/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<arpa/inet.h>
+

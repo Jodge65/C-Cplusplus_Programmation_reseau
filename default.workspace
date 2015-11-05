@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Reseau">
+		<Project filename="server/server.cbp" />
+		<Project filename="client/client.cbp" />
+		<Project filename="morpionClient/morpionClient.cbp" />
+		<Project filename="morpionServer/morpionServer.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

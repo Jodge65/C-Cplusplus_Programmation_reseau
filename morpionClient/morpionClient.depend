@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1445866603 source:/media/sf_DATA_1/CODE_BLOCKS/_prog_reseau/morpionClient/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<arpa/inet.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<arpa/inet.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<arpa/inet.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<arpa/inet.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<winsock2.h>
+
+1445866603 h>
+
+1445809847 .h>
+
+1445868007 source:j:\code_blocks\_prog_reseau\morpionclient\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<winsock2.h>
+
